@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vice Lobby Support</title>
+</head>
+<body>
+
+<h1>Vice Lobby Support</h1>
+
+<p>Need help? We're here to assist you.</p>
+
+<h2>Contact Us</h2>
+
+<p>Email: orro.dev.team@gmail.com</p>
+
+<p>For the fastest response, please include:</p>
+
+<ul>
+  <li>Your device model</li>
+  <li>Your operating system version</li>
+  <li>A description of the issue</li>
+  <li>Screenshots (if applicable)</li>
+</ul>
+
+<h2>Response Time</h2>
+
+<p>We typically respond within 24–48 business hours.</p>
+
+<h2>Common Topics</h2>
+
+<ul>
+  <li>Account and login issues</li>
+  <li>Profile and photo problems</li>
+  <li>Messaging or chat issues</li>
+  <li>Crew or matchmaking questions</li>
+  <li>Bug reports and technical support</li>
+  <li>Feature requests and feedback</li>
+</ul>
+
+<h2>Bug Reports</h2>
+
+<p>If you've found a bug, please tell us what happened and include the steps needed to reproduce the issue. This helps us resolve problems more quickly.</p>
+
+<h2>Feedback</h2>
+
+<p>We're always working to improve Vice Lobby. If you have ideas for new features or improvements, we'd love to hear from you.</p>
+
+<h2>Thank You</h2>
+
+<p>Thank you for being part of the Vice Lobby community.</p>
+
+</body>
+</html>
